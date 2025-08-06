@@ -22,9 +22,11 @@ Se trabajó con dos regiones distintas: **Europa** y **Resto del mundo**, cada u
 Construir dos dashboards principales:
 
 1. **Sales Dashboard** – Visualizar el rendimiento de ventas en términos de ventas totales, utilidades y cantidad.
+<img src="Imagenes/dashboard1.png" alt="Dashboard de ventas" width="800">
 
   
 3. **Customer Dashboard** – Comprender tendencias y patrones en la base de clientes.
+<img src="Imagenes/dashboard2.png" alt="Dashboard de ventas" width="800">
 
 Ambos dashboards permiten comparar métricas entre el año actual y el anterior, y explorar tendencias mensuales, semanales y por producto o región.
 
